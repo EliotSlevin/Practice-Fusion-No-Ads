@@ -1,0 +1,7 @@
+.ad-container{
+	display: none !important;
+}
+
+.navigation.application.ad-aware{
+	padding-right: 0px !important;
+}
